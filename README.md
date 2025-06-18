@@ -33,3 +33,14 @@ git clone https:https://github.com/HrishiKShah28/WASTE-MANAGEMENT-DASHBOARD
 cd project-name
 pip install -r requirements.txt
 streamlit run stream.py
+## 📸 Demo Preview
+
+![Smart Waste Dashboard](assets/project1.png)
+![Smart Waste Dashboard](assets/project2.png)
+![Smart Waste Dashboard](assets/project3.png)
+![Smart Waste Dashboard](assets/project4.png)
+![Smart Waste Dashboard](assets/project5.png)
+![Smart Waste Dashboard](assets/project6.png)
+![Smart Waste Dashboard](assets/project7.png)
+![Smart Waste Dashboard](assets/project8.png)
+![Smart Waste Dashboard](assets/project9.png)
