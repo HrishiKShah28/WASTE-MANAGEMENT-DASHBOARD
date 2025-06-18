@@ -35,12 +35,12 @@ pip install -r requirements.txt
 streamlit run stream.py
 ## 📸 Demo Preview
 
-![Smart Waste Dashboard](assets/project1.png)
-![Smart Waste Dashboard](assets/project2.png)
-![Smart Waste Dashboard](assets/project3.png)
-![Smart Waste Dashboard](assets/project4.png)
-![Smart Waste Dashboard](assets/project5.png)
-![Smart Waste Dashboard](assets/project6.png)
-![Smart Waste Dashboard](assets/project7.png)
-![Smart Waste Dashboard](assets/project8.png)
-![Smart Waste Dashboard](assets/project9.png)
+![Smart Waste Dashboard](project1.png)
+![Smart Waste Dashboard](project2.png)
+![Smart Waste Dashboard](project3.png)
+![Smart Waste Dashboard](project4.png)
+![Smart Waste Dashboard](project5.png)
+![Smart Waste Dashboard](project6.png)
+![Smart Waste Dashboard](project7.png)
+![Smart Waste Dashboard](project8.png)
+![Smart Waste Dashboard](project9.png)
