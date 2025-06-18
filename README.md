@@ -29,7 +29,7 @@ An interactive data science dashboard analyzing waste generation, recycling rate
 To run this project on your local machine:
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https:https://github.com/HrishiKShah28/WASTE-MANAGEMENT-DASHBOARD
 cd project-name
 pip install -r requirements.txt
 streamlit run stream.py
