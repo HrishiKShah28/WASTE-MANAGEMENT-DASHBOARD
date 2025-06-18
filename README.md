@@ -1,4 +1,5 @@
 # ♻️ Smart Waste Management Dashboard - India
+🟢 [Live Demo](https://waste-management-dashboard-hyfskwffxgxixx7jm7g9xc.streamlit.app/)
 
 An interactive data science dashboard analyzing waste generation, recycling rates, municipal efficiency, and cost factors across Indian cities.
 
