@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 st.title("♻️ Smart Waste Management Dashboard - India")
 
 # Load data
-df = pd.read_csv("cleaned_waste_data.csv")  # Adjust path if needed
+df = pd.read_csv("Waste_Management_and_Recycling_India.csv")  # Adjust path if needed
 # Sidebar filter - Waste Type
 st.sidebar.markdown("## ♻️ Filter by Waste Type")
 waste_types = df['Waste Type'].dropna().unique()
